@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Baza telefonów</string>
+    <string name="producent">Producent</string>
+    <string name="model">Model:</string>
+    <string name="delete_items">Delete items</string>
+    <string name="pierwsza">Dodaj</string>
+    <string name="producent_label">Producent:</string>
+    <string name="wersja_androida">Wersja androida:</string>
+    <string name="save">Zapisz</string>
+    <string name="www">WWW:</string>
+    <string name="modify_items">modify</string>
+    <string name="goToUrl">Przejdz do strony</string>
+</resources>
